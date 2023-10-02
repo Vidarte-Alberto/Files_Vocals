@@ -1,0 +1,14 @@
+/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals/bin/Debug/net7.0/Files_Vocals
+/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals/bin/Debug/net7.0/Files_Vocals.deps.json
+/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals/bin/Debug/net7.0/Files_Vocals.runtimeconfig.json
+/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals/bin/Debug/net7.0/Files_Vocals.dll
+/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals/bin/Debug/net7.0/Files_Vocals.pdb
+/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals/obj/Debug/net7.0/Files_Vocals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals/obj/Debug/net7.0/Files_Vocals.AssemblyInfoInputs.cache
+/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals/obj/Debug/net7.0/Files_Vocals.AssemblyInfo.cs
+/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals/obj/Debug/net7.0/Files_Vocals.csproj.CoreCompileInputs.cache
+/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals/obj/Debug/net7.0/Files_Vocals.dll
+/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals/obj/Debug/net7.0/refint/Files_Vocals.dll
+/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals/obj/Debug/net7.0/Files_Vocals.pdb
+/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals/obj/Debug/net7.0/Files_Vocals.genruntimeconfig.cache
+/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals/obj/Debug/net7.0/ref/Files_Vocals.dll

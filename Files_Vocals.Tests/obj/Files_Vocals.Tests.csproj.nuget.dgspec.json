@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals.Tests/Files_Vocals.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals.Tests/Files_Vocals.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals.Tests/Files_Vocals.Tests.csproj",
+        "projectName": "Files_Vocals.Tests",
+        "projectPath": "/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals.Tests/Files_Vocals.Tests.csproj",
+        "packagesPath": "/Users/chekinvr/.nuget/packages/",
+        "outputPath": "/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chekinvr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals/Files_Vocals.csproj": {
+                "projectPath": "/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals/Files_Vocals.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.7.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals/Files_Vocals.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals/Files_Vocals.csproj",
+        "projectName": "Files_Vocals",
+        "projectPath": "/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals/Files_Vocals.csproj",
+        "packagesPath": "/Users/chekinvr/.nuget/packages/",
+        "outputPath": "/Users/chekinvr/Documents/CETI/8vo/PAI/Parcial_2/Files_Vocals/Files_Vocals/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chekinvr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
